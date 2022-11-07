@@ -9,7 +9,7 @@ public class Bst<T extends Comparable<T>> {
             return false;
         }
 
-        if (n.getData().equals(data)) {
+        if (n.getData().compareTo(data) == 0) {
             return true;
         }
 
