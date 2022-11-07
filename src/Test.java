@@ -8,6 +8,6 @@ public class Test {
         System.out.println(123);
         System.out.println(1234);
         System.out.println(12534);
-
+        System.out.println(125346);
     }
 }
